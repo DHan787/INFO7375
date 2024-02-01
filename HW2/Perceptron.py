@@ -2,8 +2,8 @@ import numpy as np
 
 
 class Perceptron:
-    def __init__(self, input_size):
-        self.weights = np.random.rand(input_size, 1)  # Initialize weights with random values
+    def __init__(self, input_size, input_number): # not input number, but the number of labels
+        self.weights = np.random.rand(input_size, input_number)  # Initialize weights with random values
         self.bias = np.random.rand()  # Initialize bias with a random value
 
     def sigmoid(self, x):

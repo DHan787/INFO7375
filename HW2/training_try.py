@@ -1,5 +1,6 @@
 import numpy as np
 from PIL import Image
+from _ctypes import sizeof
 from sklearn.model_selection import train_test_split
 
 from HW2.Perceptron import Perceptron
@@ -38,12 +39,12 @@ inputs, labels = load_and_preprocess_data(data_folder)
 
 # Split the data into training and testing sets
 train_inputs, test_inputs, train_labels, test_labels = train_test_split(inputs, labels, test_size=0.2, random_state=42)
-train_inputs = train_inputs.reshape(-1, 1)
-test_inputs = test_inputs.reshape(-1, 1)
+
 
 # Initialize and train the perceptron
 input_size = 20 * 20
-perceptron = Perceptron(input_size)
+input_number = 10
+perceptron = Perceptron(input_size, input_number)
 perceptron.train(train_inputs, train_labels, epochs=1000, learning_rate=0.01)
 
 # Test the perceptron on the testing set

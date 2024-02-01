@@ -4,265 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bf7b677-f487-486b-930d-8d64e673a73e" name="Changes" comment="HW1 finished">
-      <change afterPath="$PROJECT_DIR$/HW2/Perceptron.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_0_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_1_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_2_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_3_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_4_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_5_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_6_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_7_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_8_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/generated_grayscale/digit_9_variation_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/62.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin/65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/62.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/origin_grayscale/65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/images/test_grayscale/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/mian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/test_perceptron.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/training_try.py" afterDir="false" />
+    <list default="true" id="8bf7b677-f487-486b-930d-8d64e673a73e" name="Changes" comment="HW2,still need improvement">
+      <change afterPath="$PROJECT_DIR$/HW3/HW3_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/training_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/training_try.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,13 +42,15 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.HW1.executor": "Run",
+    "Python.HW3.executor": "Run",
     "Python.Perceptron.executor": "Run",
     "Python.images.executor": "Run",
-    "Python.test_perceptron.executor": "Run",
+    "Python.test_perceptron.executor": "Debug",
     "Python.training_try.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "E:/NEU/INFO7375/code/INFO7375/HW2/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -334,6 +84,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Perceptron" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="INFO7375" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/Perceptron.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,8 +161,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_perceptron" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="INFO7375" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/test_perceptron.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training_try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="INFO7375" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW2/training_try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.training_try" />
+        <item itemvalue="Python.Perceptron" />
+        <item itemvalue="Python.test_perceptron" />
         <item itemvalue="Python.images" />
         <item itemvalue="Python.HW1" />
       </list>
@@ -398,7 +220,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -413,7 +235,9 @@
       <workItem from="1705593859237" duration="166000" />
       <workItem from="1705641323357" duration="826000" />
       <workItem from="1706062255055" duration="49000" />
-      <workItem from="1706206951755" duration="7236000" />
+      <workItem from="1706206951755" duration="11796000" />
+      <workItem from="1706678954818" duration="43000" />
+      <workItem from="1706818482788" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -447,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705642129102</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW2,still need improvement">
+      <option name="closed" value="true" />
+      <created>1706215403476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706215403476</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +300,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial" />
     <MESSAGE value="HW1 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1 finished" />
+    <MESSAGE value="HW2,still need improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2,still need improvement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -478,14 +311,42 @@
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW2/training_try.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW2/training_try.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HW2/Perceptron.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="test_labels" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/INFO7375$test_perceptron.coverage" NAME="test_perceptron 覆盖结果" MODIFIED="1706213640238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
-    <SUITE FILE_PATH="coverage/INFO7375$Perceptron.coverage" NAME="Perceptron 覆盖结果" MODIFIED="1706212905380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
+    <SUITE FILE_PATH="coverage/INFO7375$test_perceptron.coverage" NAME="test_perceptron 覆盖结果" MODIFIED="1706217800145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
+    <SUITE FILE_PATH="coverage/INFO7375$Perceptron.coverage" NAME="Perceptron 覆盖结果" MODIFIED="1706218983583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/INFO7375$images.coverage" NAME="images 覆盖结果" MODIFIED="1706212173901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/INFO7375$HW1.coverage" NAME="HW1 覆盖结果" MODIFIED="1706207511984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/INFO7375$training_try.coverage" NAME="training_try 覆盖结果" MODIFIED="1706215218489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
+    <SUITE FILE_PATH="coverage/INFO7375$training_try.coverage" NAME="training_try 覆盖结果" MODIFIED="1706822415035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
+    <SUITE FILE_PATH="coverage/INFO7375$HW3.coverage" NAME="HW3 覆盖结果" MODIFIED="1706822421354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3" />
   </component>
 </project>
