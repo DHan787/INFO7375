@@ -4,11 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bf7b677-f487-486b-930d-8d64e673a73e" name="Changes" comment="HW3">
-      <change afterPath="$PROJECT_DIR$/HW6/ActivationFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/BackwardPropagation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/ForwardPropagation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW6/__init__.py" afterDir="false" />
+    <list default="true" id="8bf7b677-f487-486b-930d-8d64e673a73e" name="Changes" comment="HW6 finished">
+      <change afterPath="$PROJECT_DIR$/HW2/img.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WritingReco/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit0_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit0_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit0_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit2_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit3_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit4_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit5_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit6_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit7_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit8_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/testing/digit8_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit4_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit4_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit4_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit2_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit3_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit4_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit5_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit6_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit7_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit7_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit7_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit8_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/validation/digit8_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,38 +135,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Perceptron.executor&quot;: &quot;Run&quot;,
-    &quot;Python.images.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_perceptron.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.training_try.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/NEU/INFO7375/code/INFO7375/HW2/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.HW1.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW3_main.executor": "Run",
+    "Python.Perceptron.executor": "Run",
+    "Python.images.executor": "Run",
+    "Python.img.executor": "Run",
+    "Python.test_perceptron.executor": "Debug",
+    "Python.training_try.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/NEU/INFO7375/code/INFO7375/datasets/training",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\NEU\INFO7375\code\INFO7375\datasets\training" />
       <recent name="E:\NEU\INFO7375\code\INFO7375\HW2\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\NEU\INFO7375\code\INFO7375\HW2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="HW1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="INFO7375" />
       <option name="ENV_FILES" value="" />
@@ -240,7 +340,10 @@
       <workItem from="1706818482788" duration="814000" />
       <workItem from="1707283659595" duration="9000" />
       <workItem from="1707375627237" duration="20000" />
-      <workItem from="1708029834290" duration="1777000" />
+      <workItem from="1708029834290" duration="2399000" />
+      <workItem from="1708213311154" duration="2000" />
+      <workItem from="1708586161674" duration="8000" />
+      <workItem from="1708598400553" duration="646000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -290,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706822470936</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HW6 finished">
+      <option name="closed" value="true" />
+      <created>1708031734816</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708031734816</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +424,8 @@
     <MESSAGE value="HW1 finished" />
     <MESSAGE value="HW2,still need improvement" />
     <MESSAGE value="HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
+    <MESSAGE value="HW6 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW6 finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -358,6 +470,7 @@
     <SUITE FILE_PATH="coverage/INFO7375$Perceptron.coverage" NAME="Perceptron 覆盖结果" MODIFIED="1706218983583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/INFO7375$images.coverage" NAME="images 覆盖结果" MODIFIED="1706212173901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/INFO7375$HW3_main.coverage" NAME="HW3_main 覆盖结果" MODIFIED="1706822442940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3" />
+    <SUITE FILE_PATH="coverage/INFO7375$img.coverage" NAME="img 覆盖结果" MODIFIED="1708599044496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/INFO7375$HW1.coverage" NAME="HW1 覆盖结果" MODIFIED="1706207511984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/INFO7375$training_try.coverage" NAME="training_try 覆盖结果" MODIFIED="1706822415035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/INFO7375$HW3.coverage" NAME="HW3 覆盖结果" MODIFIED="1706822421354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3" />
