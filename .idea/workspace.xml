@@ -4,109 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bf7b677-f487-486b-930d-8d64e673a73e" name="Changes" comment="HW6 finished">
-      <change afterPath="$PROJECT_DIR$/HW2/img.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WritingReco/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit0_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit0_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit0_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit2_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit2_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit3_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit3_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit4_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit5_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit6_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit6_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit7_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit8_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/testing/digit8_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit0_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit1_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit2_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit3_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit4_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit4_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit4_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit4_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit5_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit6_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit7_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit8_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/training/digit9_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit1_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit2_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit3_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit3_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit4_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit4_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit5_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit5_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit6_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit6_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit7_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit7_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit7_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit8_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/validation/digit8_1.png" afterDir="false" />
+    <list default="true" id="8bf7b677-f487-486b-930d-8d64e673a73e" name="Changes" comment="HW12">
+      <change afterPath="$PROJECT_DIR$/convolution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,30 +34,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.HW1.executor": "Run",
-    "Python.HW3.executor": "Run",
-    "Python.HW3_main.executor": "Run",
-    "Python.Perceptron.executor": "Run",
-    "Python.images.executor": "Run",
-    "Python.img.executor": "Run",
-    "Python.test_perceptron.executor": "Debug",
-    "Python.training_try.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/NEU/INFO7375/code/INFO7375/datasets/training",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Perceptron.executor&quot;: &quot;Run&quot;,
+    &quot;Python.images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.img.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_perceptron.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.training_try.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/NEU/INFO7375/code/INFO7375/datasets/training&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\NEU\INFO7375\code\INFO7375\datasets\training" />
@@ -168,7 +67,7 @@
       <recent name="E:\NEU\INFO7375\code\INFO7375\HW2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="HW1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="INFO7375" />
       <option name="ENV_FILES" value="" />
@@ -343,7 +242,12 @@
       <workItem from="1708029834290" duration="2399000" />
       <workItem from="1708213311154" duration="2000" />
       <workItem from="1708586161674" duration="8000" />
-      <workItem from="1708598400553" duration="646000" />
+      <workItem from="1708598400553" duration="1792000" />
+      <workItem from="1709186780134" duration="16000" />
+      <workItem from="1709192572968" duration="328000" />
+      <workItem from="1709535461939" duration="4000" />
+      <workItem from="1710392802645" duration="540000" />
+      <workItem from="1711052373988" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -401,7 +305,47 @@
       <option name="project" value="LOCAL" />
       <updated>1708031734816</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dataset created">
+      <option name="closed" value="true" />
+      <created>1708599071094</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708599071094</updated>
+    </task>
+    <task id="LOCAL-00009" summary="regularization and dropout">
+      <option name="closed" value="true" />
+      <created>1708600642370</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708600642370</updated>
+    </task>
+    <task id="LOCAL-00010" summary="normalization complete">
+      <option name="closed" value="true" />
+      <created>1709192682033</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709192682033</updated>
+    </task>
+    <task id="LOCAL-00011" summary="mini branch complete">
+      <option name="closed" value="true" />
+      <created>1709192803717</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709192803717</updated>
+    </task>
+    <task id="LOCAL-00012" summary="HW12">
+      <option name="closed" value="true" />
+      <created>1711052428922</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711052428922</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +369,12 @@
     <MESSAGE value="HW2,still need improvement" />
     <MESSAGE value="HW3" />
     <MESSAGE value="HW6 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW6 finished" />
+    <MESSAGE value="dataset created" />
+    <MESSAGE value="regularization and dropout" />
+    <MESSAGE value="normalization complete" />
+    <MESSAGE value="mini branch complete" />
+    <MESSAGE value="HW12" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
