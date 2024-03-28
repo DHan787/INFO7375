@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bf7b677-f487-486b-930d-8d64e673a73e" name="Changes" comment="HW14">
-      <change afterPath="$PROJECT_DIR$/HW15/Convolution.py" afterDir="false" />
+    <list default="true" id="8bf7b677-f487-486b-930d-8d64e673a73e" name="Changes" comment="HW15">
       <change afterPath="$PROJECT_DIR$/HW15/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +250,7 @@
       <workItem from="1710392802645" duration="540000" />
       <workItem from="1711052373988" duration="739000" />
       <workItem from="1711263408417" duration="12000" />
-      <workItem from="1711602293523" duration="86000" />
+      <workItem from="1711602293523" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -358,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711053231989</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HW15">
+      <option name="closed" value="true" />
+      <created>1711602388731</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711602388731</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,7 +394,8 @@
     <MESSAGE value="mini branch complete" />
     <MESSAGE value="HW12" />
     <MESSAGE value="HW14" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW14" />
+    <MESSAGE value="HW15" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
